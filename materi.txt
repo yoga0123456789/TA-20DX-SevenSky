@@ -1,0 +1,4 @@
+site_ure = bagus buat beda halaman ataupun menghubungkan beda fungsi
+base_url = satu halaman
+
+satuan px for image
